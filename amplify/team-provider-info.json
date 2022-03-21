@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-testauth-dev-212850-authRole",
+      "UnauthRoleArn": "arn:aws:iam::606928499258:role/amplify-testauth-dev-212850-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::606928499258:role/amplify-testauth-dev-212850-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-testauth-dev-212850-deployment",
+      "UnauthRoleName": "amplify-testauth-dev-212850-unauthRole",
+      "StackName": "amplify-testauth-dev-212850",
+      "StackId": "arn:aws:cloudformation:us-west-1:606928499258:stack/amplify-testauth-dev-212850/6ad40820-a8cf-11ec-a28a-02c5099cfe49",
+      "AmplifyAppId": "d1fl7tbdrtnc4t"
+    },
+    "categories": {
+      "auth": {
+        "testauthf966d8a8": {
+          "userPoolId": "us-west-1_j8c2jRhmT",
+          "userPoolName": "billdevauth",
+          "webClientId": "6r1dkikagg4hhhnh4m3151sf8n",
+          "nativeClientId": "38tf4hm53edlomc8r0tadlog5a"
+        }
+      }
+    }
+  }
+}

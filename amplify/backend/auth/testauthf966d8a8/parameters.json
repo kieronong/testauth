@@ -1,0 +1,22 @@
+{
+  "authSelections": "userPoolOnly",
+  "resourceName": "testauthf966d8a8",
+  "serviceType": "imported",
+  "region": "us-west-1",
+  "usernameAttributes": [
+    "email"
+  ],
+  "requiredAttributes": [],
+  "passwordPolicyMinLength": 8,
+  "passwordPolicyCharacters": [
+    "Requires Lowercase",
+    "Requires Uppercase",
+    "Requires Numbers",
+    "Requires Symbols"
+  ],
+  "mfaConfiguration": "OFF",
+  "autoVerifiedAttributes": [
+    "email"
+  ],
+  "mfaTypes": []
+}

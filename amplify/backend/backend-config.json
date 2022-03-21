@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "testauthf966d8a8": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
